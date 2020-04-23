@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ufJawm/ASz28s9nVlhDcpYFmXd+nXu43epYfFHoYmJzovt6s8eLNtHUrVPfggA2ybNhJ5bUS8bLd7laEfT3Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\start_ng_projects\\csharp_task\\GuessGame\\Game.Interfaces\\Game.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

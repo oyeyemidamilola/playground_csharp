@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.AssemblyInfo.cs
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.exe
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.deps.json
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.runtimeconfig.json
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.runtimeconfig.dev.json
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.dll
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\bin\Debug\netcoreapp3.1\GuessGame.pdb
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.dll
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.pdb
+C:\Users\USER\Desktop\start_ng_projects\csharp_task\GuessGame\obj\Debug\netcoreapp3.1\GuessGame.genruntimeconfig.cache
